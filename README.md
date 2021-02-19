@@ -1,5 +1,9 @@
 #ISIS1225 - Estructura de un proyecto
 
+Grupo 4:
+- E1: Daniela Alvarez-202020209-d.alvarezr@uniandes.edu.co
+- E2: Andres Mendoza-202012676-af.mendoza@uniandes.edu.co
+
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
